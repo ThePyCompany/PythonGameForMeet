@@ -68,5 +68,6 @@ while running:
 
     if total_skipped == len(tiles):
         running = False
+x=y+z
 
-print('Goodbye!')
+print('Goodbye! Thanks For Playing')
